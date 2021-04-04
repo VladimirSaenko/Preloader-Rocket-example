@@ -133,10 +133,16 @@ body {
 } */
 
 .image {
-    width: 400px;
-    height: 275px;
+    width: 375px;
+    height: 325px;
     background: url(https://picsum.photos/200/300);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+@media(max-width: 400px) {
+    .image {
+        width: calc(100% - 75px);
+    }
 }
