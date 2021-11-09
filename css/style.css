@@ -52,7 +52,6 @@
     from {
        bottom: 50%;
     }
-
     to {
         bottom: 140%;
     }
@@ -62,7 +61,6 @@
     from {
         transform: translateX(-5px);
     }
-
     to {
         transform: translateX(5px);
     }
@@ -88,7 +86,6 @@
     from {
         transform: translateY(-5px);
     }
-
     to {
         transform: translateY(5px);
     }
@@ -101,8 +98,7 @@
 @keyframes stars {
     from {
         transform: translateY(-1000px);
-    }
-    
+    } 
     to {
         transform: translateY(1000px);
     }
