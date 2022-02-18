@@ -1,6 +1,6 @@
 # Preloader-Rocket-example
  
-### Пример прелоудера в виде ракеты +всплывающее окно(popup)
+## Пример прелоудера в виде ракеты +всплывающее окно(popup)
 
 ![44332](https://user-images.githubusercontent.com/56477695/116863136-807b0e80-ac0e-11eb-8e30-05c786e99316.jpg)
 
