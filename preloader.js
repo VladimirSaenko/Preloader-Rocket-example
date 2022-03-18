@@ -17,11 +17,11 @@ window.addEventListener('load', function() {
 
     setTimeout(()=> {
         popup.style.display = "block";
-    }, 7000);
+    }, 5000);
 
     setInterval(()=> {
         popup.style.display = "block";
-    }, 17500);
+    }, 10000);
 
 });
 
